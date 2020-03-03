@@ -4,7 +4,7 @@ title: SemEval-2021: Call for Task Proposals
 
 # Call for Task Proposals – SemEval-2021: International Workshop on Semantic Evaluation
 
-We invite proposals for tasks to be run as part of SemEval-2021. SemEval (the International Workshop on Semantic Evaluation) is an ongoing series of evaluations of computational semantics systems, organized under the umbrella of SIGLEX, the Special Interest Group on the Lexicon of the Association for Computational Linguistics.
+We invite proposals for tasks to be run as part of [SemEval-2021](https://semeval.github.io/SemEval2021/). [SemEval](https://semeval.github.io/) (the International Workshop on Semantic Evaluation) is an ongoing series of evaluations of computational semantics systems, organized under the umbrella of SIGLEX, the Special Interest Group on the Lexicon of the Association for Computational Linguistics.
 
 The SemEval evaluations explore the nature of meaning in natural languages in practical terms, by providing a mechanism to identify problems (e.g., how to characterize meaning and what is necessary to compute it) and to explore the strengths of possible solutions by means of standardized evaluation on shared datasets. SemEval evaluations initially focused on identifying word senses computationally, but have later grown to investigate the interrelationships among elements in a sentence (e.g., semantic relations, semantic parsing, semantic role labeling), relations between sentences (e.g., coreference), and author attitudes (e.g., sentiment analysis), among other research directions.
 
@@ -104,7 +104,7 @@ Each proposal should contain the following:
   
 Proposals will be reviewed by an independent group of area experts who may not have familiarity with recent SemEval tasks and therefore, all proposals should be written in a self-explanatory manner and contain sufficient examples.
 
-__The submission webpage will be made available soon.__ Please check this page for updates.
+__[Submission site for task proposals](https://www.softconf.com/coling2020/SemEval2021/)__
 
 In case you are not sure whether a task is suitable for SemEval, please feel free to get in touch with the SemEval organizers at <semeval-organizers@googlegroups.com> to discuss your idea.
 
