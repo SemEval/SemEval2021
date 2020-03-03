@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+---
+title: SemEval-2021
+---
 
-You can use the [editor on GitHub](https://github.com/SemEval/SemEval2021/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the [SemEval](https://semeval.github.io/)-2021 homepage!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Calls
 
-### Markdown
+__[Call for Task Proposals](semeval2021-cft.html)__: We invite task proposals for the 15th International Workshop on Semantic Evaluation (SemEval-2021).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+__[Submission site for Task Proposals](https://www.softconf.com/coling2020/SemEval2021/)__
 
-```markdown
-Syntax highlighted code block
+### Important dates
 
-# Header 1
-## Header 2
-### Header 3
+- __Task proposals due: March 20, 2020__
+- Task selection notification: May 8, 2020
+- Trial data ready: July 31, 2020
+- Training data ready: September 4, 2020
+- Test data ready: December 3, 2020
+- __Evaluation start: January 10, 2021__
+- __Evaluation end: January 31, 2021__
+- Paper submission due: February 23, 2021
+- Notification to authors: March 29, 2021
+- Camera ready due: April 5, 2021
+- __SemEval workshop: Summer 2021__
 
-- Bulleted
-- List
+### Organizers
 
-1. Numbered
-2. List
+- [Aurelie Herbelot](http://aurelieherbelot.net/), University of Trento
+- [Xiaodan Zhu](http://www.xiaodanzhu.com/), Queen's University
+- [Nathan Schneider](http://people.cs.georgetown.edu/nschneid/), Georgetown University
+- [Alexis Palmer](https://linguistics.unt.edu/alexis-palmer), University of North Texas
 
-**Bold** and _Italic_ and `Code` text
+__Contact:__ General questions about SemEval organization should be directed to <semeval-organizers@googlegroups.com>.
 
-[Link](url) and ![Image](src)
-```
+## Anti-Harassment policy
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SemEval/SemEval2021/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+SemEval highly values the open exchange of ideas, freedom of thought and expression, and respectful scientific debate. We support and uphold the [NAACL Anti-Harassment policy](http://naacl.org/policies/anti-harassment.html). Participants are encouraged to send any concerns or questions to the [NAACL Board members](http://naacl.org/officers/), [Priscilla Rasmussen](mailto:acl@aclweb.org) and/or the workshop organizers.
