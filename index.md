@@ -6,7 +6,7 @@ Welcome to the [SemEval](https://semeval.github.io/)-2021 homepage!
 
 ### Calls
 
-__[Call for Task Proposals](semeval2021-cft.html)__: We invite task proposals for the 15th International Workshop on Semantic Evaluation (SemEval-2021).
+__[Call for Task Proposals](cft.html)__: We invite task proposals for the 15th International Workshop on Semantic Evaluation (SemEval-2021).
 
 __[Submission site for Task Proposals](https://www.softconf.com/coling2020/SemEval2021/)__
 
