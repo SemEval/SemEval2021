@@ -4,6 +4,8 @@ title: SemEval-2021: Call for Task Proposals
 
 # Call for Task Proposals – SemEval-2021: International Workshop on Semantic Evaluation
 
+# UPDATE: SUBMISSION DEADLINE EXTENDED - PROPOSALS DUE APRIL 3, 2020 (see all dates below)
+
 We invite proposals for tasks to be run as part of [SemEval-2021](https://semeval.github.io/SemEval2021/). [SemEval](https://semeval.github.io/) (the International Workshop on Semantic Evaluation) is an ongoing series of evaluations of computational semantics systems, organized under the umbrella of SIGLEX, the Special Interest Group on the Lexicon of the Association for Computational Linguistics.
 
 The SemEval evaluations explore the nature of meaning in natural languages in practical terms, by providing a mechanism to identify problems (e.g., how to characterize meaning and what is necessary to compute it) and to explore the strengths of possible solutions by means of standardized evaluation on shared datasets. SemEval evaluations initially focused on identifying word senses computationally, but have later grown to investigate the interrelationships among elements in a sentence (e.g., semantic relations, semantic parsing, semantic role labeling), relations between sentences (e.g., coreference), and author attitudes (e.g., sentiment analysis), among other research directions.
@@ -46,10 +48,10 @@ We welcome people who have never organized a SemEval task before, as well as tho
 - manage participants’ system description submissions to the task; and possibly shepherd papers that need additional help in improving the writing.
 - review one or two other task description papers.
  
-## Important Dates
+## Important Dates - Updated March 19, 2020
 
-- __Task proposals due: March 20, 2020__
-- Task selection notification: May 8, 2020
+- __Task proposals due: April 3, 2020 (UTC-12)__
+- __Task selection notification: May 25, 2020__
 - Trial data ready: July 31, 2020
 - Training data ready: September 4, 2020
 - Test data ready: December 3, 2020
