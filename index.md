@@ -6,7 +6,7 @@ Welcome to the [SemEval](https://semeval.github.io/)-2021 homepage!
 
 ### NEW: Extended Deadline for Task Proposal Submissions
 
-We have extended the submission deadline for SemEval-2021 task proposals due to the ongoing COVID-19 pandemic. The deadline is extended to __April 3, 2020__. We are looking forward to our excellent and exciting proposals!
+We have extended the submission deadline for SemEval-2021 task proposals due to the ongoing COVID-19 pandemic. The deadline is extended to __April 3, 2020__. We are looking forward to your excellent and exciting proposals!
 
 ### Calls
 
