@@ -1,5 +1,6 @@
 ---
 title: SemEval-2021
+navigation_weight: 1
 ---
 
 Welcome to the [SemEval](https://semeval.github.io/)-2021 homepage!
