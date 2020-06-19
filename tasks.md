@@ -1,6 +1,5 @@
 ---
 title: SemEval-2021 Tasks
-navigation_weight: 2
 ---
 
 We are pleased to announce the following tasks for [SemEval-2021](https://semeval.github.io/SemEval2021)!
