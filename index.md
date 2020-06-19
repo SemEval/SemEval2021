@@ -4,21 +4,19 @@ title: SemEval-2021
 
 Welcome to the [SemEval](https://semeval.github.io/)-2021 homepage!
 
-### NEW: Extended Deadline for Task Proposal Submissions
+### NEW: SemEval 2021 tasks announced! 
 
-We have extended the submission deadline for SemEval-2021 task proposals due to the ongoing COVID-19 pandemic. The deadline is extended to __April 3, 2020__. We are looking forward to your excellent and exciting proposals!
+We have selected 12 exciting tasks for SemEval 2021 - it was a difficult decision, as we received a large number of excellent proposals. 
 
 ### Calls
 
-__[Call for Task Proposals](cft.html)__: We invite task proposals for the 15th International Workshop on Semantic Evaluation (SemEval-2021).
+Call for task proposals closed. Trial data will be available by July 31, 2020.
 
-__[Submission site for Task Proposals](https://www.softconf.com/coling2020/SemEval2021/)__
+### Important dates - updated June 19, 2020
 
-### Important dates - updated March 19, 2020
-
-- __Task proposals due: April 3, 2020__
-- __Task selection notification: May 25, 2020__
-- Trial data ready: July 31, 2020
+- Task proposals due: April 3, 2020
+- Task selection notification: May 25, 2020
+- __Trial data ready: July 31, 2020__
 - Training data ready: September 4, 2020
 - Test data ready: December 3, 2020
 - __Evaluation start: January 10, 2021__
