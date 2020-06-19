@@ -6,16 +6,14 @@ Welcome to the [SemEval](https://semeval.github.io/)-2021 homepage!
 
 ### NEW: SemEval 2021 tasks announced! 
 
-We have selected 12 exciting tasks for SemEval 2021 - it was a difficult decision, as we received a large number of excellent proposals. 
+The new batch of [SemEval tasks](https://semeval.github.io/SemEval2021/tasks) has been selected from a collection of excellent proposals - websites and detailed information coming soon. 
 
-### Calls
-
-Call for task proposals closed. Trial data will be available by July 31, 2020.
 
 ### Important dates - updated June 19, 2020
 
 - Task proposals due: April 3, 2020
 - Task selection notification: May 25, 2020
+- __2021 tasks announced: June 19, 2020__
 - __Trial data ready: July 31, 2020__
 - Training data ready: September 4, 2020
 - Test data ready: December 3, 2020
