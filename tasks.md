@@ -32,11 +32,5 @@ Websites and contact information for individual tasks coming soon.
 - Task 12: Learning with Disagreements
 
 
-## ORGANIZERS
-
-- [Aurelie Herbelot](http://aurelieherbelot.net/), University of Trento
-- [Xiaodan Zhu](http://www.xiaodanzhu.com/), Queen's University
-- [Nathan Schneider](http://people.cs.georgetown.edu/nschneid/), Georgetown University
-- [Alexis Palmer](https://linguistics.unt.edu/alexis-palmer), University of North Texas
-
-__Contact:__ General questions about SemEval organization should be directed to <semeval-organizers@googlegroups.com>.
+#### CONTACT
+Contact information for organizers of individual tasks will be available soon. General questions about SemEval organization should be directed to <semeval-organizers@googlegroups.com>.
