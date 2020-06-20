@@ -11,7 +11,7 @@ The new batch of [SemEval tasks](https://semeval.github.io/SemEval2021/tasks) ha
 
 ### Important dates - updated June 19, 2020
 
-- Task proposals due: April 3, 2020
+- [Task proposals](cft.html) due: April 3, 2020
 - Task selection notification: May 25, 2020
 - __2021 tasks announced: June 19, 2020__
 - __Trial data ready: July 31, 2020__
