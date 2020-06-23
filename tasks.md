@@ -5,7 +5,7 @@ title: SemEval-2021 Tasks
 We are pleased to announce the following tasks for [SemEval-2021](https://semeval.github.io/SemEval2021)!
 
 ## TASKS
-Websites and contact information for individual tasks coming soon.
+Websites and contact information for individual tasks coming soon. [Link to CodaLab instructions](https://semeval.github.io/SemEval2021/codaLab), for both organizers and participants.
 
 ### Lexical semantics
 
