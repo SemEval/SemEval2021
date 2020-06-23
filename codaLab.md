@@ -79,7 +79,7 @@ Participants must click the Submit to Leaderboard button underneath one of their
 - If you choose to allow more than 1 submission in your phases, organizers can see all submissions in the `Admin Features` -> `Submissions` tab.
 - If you choose to allow more than 1 submission, it is especially important to consider hiding the leaderboard during the Test phase to prevent participants from making a large number of submissions, viewing their results, and then choosing the best to place on the leaderboard (i.e., tuning to the test data).
 
-## Directions for participating in a CodaLab competition:
+## Participating in a CodaLab competition:
 1. Create a [CodaLab](https://competitions.codalab.org/) account. Sign in.
 2. Edit your profile appropriately. Make sure to add a team name, and enter names of team members. (Go to `Settings`, and look under `Competition settings`.)
 3. Proceed to task webpage on CodaLab. Read information on all the pages.
