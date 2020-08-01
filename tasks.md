@@ -11,7 +11,7 @@ Websites and contact information for individual tasks coming soon. [Link to Coda
 
 - Task 1: Lexical Complexity Prediction
 - Task 2: Multilingual and Cross-lingual Word-in-Context Disambiguation
-- Task 3: Span- and Dependency-based Multilingual and Cross-lingual Semantic Role Labeling
+- ~Task 3: Span- and Dependency-based Multilingual and Cross-lingual Semantic Role Labeling~
 - Task 4: Reading Comprehension of Abstract Meaning
 
 ### Social factors & opinion
