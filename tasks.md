@@ -25,7 +25,7 @@ Websites and contact information for individual tasks coming soon. [Link to Coda
 - Task 8: MeasEval: Counts and Measurements
 - Task 9: Statement Verification and Evidence Finding with Tables
 - Task 10: Source-Free Domain Adaptation for Semantic Processing
-- Task 11: Mining Scholarly Article Schemas
+- Task 11: NLPContributionGraph
 
 ### Other phenomena
 
