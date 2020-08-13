@@ -27,7 +27,7 @@ Websites and contact information for individual below - we will keep updating th
 - [Task 8: MeasEval: Counts and Measurements](https://competitions.codalab.org/competitions/25770) [[mailing list]](mailto:measeval-semeval-2021@googlegroups.com)
 - [Task 9: Statement Verification and Evidence Finding with Tables](https://sites.google.com/view/sem-tab-facts) [[email organizers]](mailto:semtabfacts.task.organizers@gmail.com) [[mailing list]](mailto:semtabfacts.task.participants@gmail.com)
 - [Task 10: Source-Free Domain Adaptation for Semantic Processing](https://machine-learning-for-medical-language.github.io/source-free-domain-adaptation/) [[email organizers]](mailto:source-free-domain-adaptation@googlegroups.com) [[mailing list]](mailto:source-free-domain-adaptation-participants@googlegroups.com)
-- [Task 11: NLPContributionGraph](https://ncg-task.github.io/) [[email organizers]] (mailto:ncg.task@gmail.com) [[mailing list]](mailto:ncg-task-semeval-2021@googlegroups.com)
+- [Task 11: NLPContributionGraph](https://ncg-task.github.io/) [[email organizers]](mailto:ncg.task@gmail.com) [[mailing list]](mailto:ncg-task-semeval-2021@googlegroups.com)
 
 ### Other phenomena
 
