@@ -12,7 +12,7 @@ Websites and contact information for individual below - we will keep updating th
 ### Lexical semantics
 
 - Task 1: Lexical Complexity Prediction
-- [Task 2: Multilingual and Cross-lingual Word-in-Context Disambiguation](https://competitions.codalab.org/competitions/25825) [[email organizers]]<mcl-wic@googlegroups.com>
+- [Task 2: Multilingual and Cross-lingual Word-in-Context Disambiguation](https://competitions.codalab.org/competitions/25825) [[email organizers]](mailto:mcl-wic@googlegroups.com)
 - ~Task 3: Span- and Dependency-based Multilingual and Cross-lingual Semantic Role Labeling~
 - Task 4: Reading Comprehension of Abstract Meaning
 
