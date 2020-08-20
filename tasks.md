@@ -11,7 +11,7 @@ Websites and contact information for individual below - we will keep updating th
 
 ### Lexical semantics
 
-- **Task 1: Lexical Complexity Prediction**
+- **[Task 1: Lexical Complexity Prediction](https://sites.google.com/view/lcpsharedtask2021)** ([[email organizers]](mailto:semeval-2021-task-1-organizers@googlegroups.com)  [[mailing list]](mailto:semeval-2021-task-1@googlegroups.com))
 - **[Task 2: Multilingual and Cross-lingual Word-in-Context Disambiguation](https://competitions.codalab.org/competitions/25825)** ([[email organizers]](mailto:mcl-wic@googlegroups.com))
 - ~~Task 3: Span- and Dependency-based Multilingual and Cross-lingual Semantic Role Labeling~~
 - **Task 4: Reading Comprehension of Abstract Meaning**
@@ -20,7 +20,7 @@ Websites and contact information for individual below - we will keep updating th
 
 - **[Task 5: Toxic Spans Detection](https://sites.google.com/view/toxicspans)** ([[email organizers]](mailto:toxic-spans-organisers@googlegroups.com)  [[mailing list]](mailto:toxic-spans@googlegroups.com))
 - **Task 6: Detection of Persuasive Techniques in Texts and Images**
-- **Task 7: Hahackathon: Incorporating Demographic Factors into Shared Humor Tasks** ([[email organizers]](mailto:hahackathon@googlegroups.com))
+- **[Task 7: Hahackathon: Incorporating Demographic Factors into Shared Humor Tasks](https://competitions.codalab.org/competitions/26083)** ([[email organizers]](mailto:hahackathon@googlegroups.com))
 
 ### Information in scientific & clinical text
 
