@@ -33,7 +33,7 @@ J. A. Meaney, Steven Wilson, Walid Magdy, Luis Chiruzzo
 - **[Task 8: MeasEval: Counts and Measurements](https://competitions.codalab.org/competitions/25770)** ([[email organizers]] (mailto:measeval-organizers@googlegroups.com) [[mailing list]](mailto:measeval-semeval-2021@googlegroups.com)) <br>
 Corey Harper, Jessica Cox, Ron Daniel, Paul Groth, Curt Kohler, Antony Scerri
 - **[Task 9: Statement Verification and Evidence Finding with Tables](https://sites.google.com/view/sem-tab-facts)** ([[email organizers]](mailto:semtabfacts.task.organizers@gmail.com)  [[mailing list]](mailto:semtabfacts.task.participants@gmail.com)) <br>
-Nancy Xin Ru Wang, Sara Rosenthal, Marina Danilevsky
+Nancy Xin Ru Wang, Sara Rosenthal, Marina Danilevsky, Diwakar Mahajan
 - **[Task 10: Source-Free Domain Adaptation for Semantic Processing](https://machine-learning-for-medical-language.github.io/source-free-domain-adaptation/)** ([[email organizers]](mailto:source-free-domain-adaptation@googlegroups.com) [[mailing list]](mailto:source-free-domain-adaptation-participants@googlegroups.com)) <br>
 Steven Bethard, Egoitz Laparra, Timothy Miller, Özlem Uzuner
 - **[Task 11: NLPContributionGraph](https://ncg-task.github.io/)**  ([[email organizers]](mailto:ncg.task@gmail.com) [[mailing list]](mailto:ncg-task-semeval-2021@googlegroups.com)) <br>
