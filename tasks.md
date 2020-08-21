@@ -30,7 +30,7 @@ J. A. Meaney, Steven Wilson, Walid Magdy, Luis Chiruzzo
 
 ### Information in scientific & clinical text
 
-- **[Task 8: MeasEval: Counts and Measurements](https://competitions.codalab.org/competitions/25770)** ([[email organizers]] (mailto:measeval-organizers@googlegroups.com) [[mailing list]](mailto:measeval-semeval-2021@googlegroups.com)) <br>
+- **[Task 8: MeasEval: Counts and Measurements](https://competitions.codalab.org/competitions/25770)** ([[email organizers]](mailto:measeval-organizers@googlegroups.com) [[mailing list]](mailto:measeval-semeval-2021@googlegroups.com)) <br>
 Corey Harper, Jessica Cox, Ron Daniel, Paul Groth, Curt Kohler, Antony Scerri
 - **[Task 9: Statement Verification and Evidence Finding with Tables](https://sites.google.com/view/sem-tab-facts)** ([[email organizers]](mailto:semtabfacts.task.organizers@gmail.com)  [[mailing list]](mailto:semtabfacts.task.participants@gmail.com)) <br>
 Nancy Xin Ru Wang, Sara Rosenthal, Marina Danilevsky, Diwakar Mahajan
