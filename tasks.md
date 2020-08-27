@@ -16,7 +16,7 @@ Matthew Shardlow, Richard Evans, Gustavo Henrique Paetzold, Marcos Zampieri
 - **[Task 2: Multilingual and Cross-lingual Word-in-Context Disambiguation](https://competitions.codalab.org/competitions/25825)** ([[email organizers]](mailto:mcl-wic@googlegroups.com))<br>
 Federico Martelli, Michael Bianchi, Gabriele Tola, Roberto Navigli
 - ~~Task 3: Span- and Dependency-based Multilingual and Cross-lingual Semantic Role Labeling~~
-- **Task 4: Reading Comprehension of Abstract Meaning** <br>
+- **[Task 4: Reading Comprehension of Abstract Meaning](https://competitions.codalab.org/competitions/26153)** ([[email organizers]](mailto:mrc-abstract-organizers@googlegroups.com)  [[mailing list]](mailto:mrc-abstract-participants@googlegroups.com))** <br>
 Xiaodan Zhu, Boyuan Zheng, Yu-Ping Ruan, Zhen-Hua Ling, Quan Liu, Si Wei
 
 ### Social factors & opinion
