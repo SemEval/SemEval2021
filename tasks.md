@@ -23,7 +23,7 @@ Xiaodan Zhu, Boyuan Zheng, Yu-Ping Ruan, Zhen-Hua Ling, Quan Liu, Si Wei
 
 - **[Task 5: Toxic Spans Detection](https://sites.google.com/view/toxicspans)** ([[email organizers]](mailto:toxic-spans-organisers@googlegroups.com)  [[mailing list]](mailto:toxic-spans@googlegroups.com)) <br>
 John Pavlopoulos, Ion Androutsopoulos, Jeffrey Sorensen, Léo Laugier
-- **Task 6: Detection of Persuasive Techniques in Texts and Images** <br>
+- **Task 6: Detection of Persuasive Techniques in Texts and Images - website coming soon! (Sept 2)** ([[email organizers]](mailto:semeval2021-propaganda@googlegroups.com) [[mailing list]](mailto:semeval-2021-task6-all@googlegroups.com))<br>
 Giovanni Da San Martino, Hamed Firooz, Preslav Nakov, Fabrizio Silvestri
 - **[Task 7: Hahackathon: Incorporating Demographic Factors into Shared Humor Tasks](https://competitions.codalab.org/competitions/26083)** ([[email organizers]](mailto:hahackathon@googlegroups.com)) <br>
 J. A. Meaney, Steven Wilson, Walid Magdy, Luis Chiruzzo
