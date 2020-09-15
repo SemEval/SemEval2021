@@ -37,7 +37,7 @@ Nancy Xin Ru Wang, Sara Rosenthal, Marina Danilevsky, Diwakar Mahajan
 - **[Task 10: Source-Free Domain Adaptation for Semantic Processing](https://machine-learning-for-medical-language.github.io/source-free-domain-adaptation/)** ([[email organizers]](mailto:source-free-domain-adaptation@googlegroups.com) [[mailing list]](mailto:source-free-domain-adaptation-participants@googlegroups.com)) <br>
 Steven Bethard, Egoitz Laparra, Timothy Miller, Özlem Uzuner
 - **[Task 11: NLPContributionGraph](https://ncg-task.github.io/)**  ([[email organizers]](mailto:ncg.task@gmail.com) [[mailing list]](mailto:ncg-task-semeval-2021@googlegroups.com)) <br>
-Jennifer D'Souza, Sören Auer, Ted Pederson
+Jennifer D'Souza, Sören Auer, Ted Pedersen
 
 ### Other phenomena
 
