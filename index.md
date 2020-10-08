@@ -25,10 +25,13 @@ Welcome to the [SemEval](https://semeval.github.io/)-2021 homepage!
 
 ### Organizers
 
+- [Alexis Palmer](https://linguistics.unt.edu/alexis-palmer), University of North Texas
+- [Nathan Schneider](http://people.cs.georgetown.edu/nschneid/), Georgetown University
+- [Leon Derczynski](http://www.derczynski.com/itu/), IT University of Copenhagen
+- [Guy Emerson](https://www.languagesciences.cam.ac.uk/directory/guy-emerson), Cambridge University
 - [Aurelie Herbelot](http://aurelieherbelot.net/), University of Trento
 - [Xiaodan Zhu](http://www.xiaodanzhu.com/), Queen's University
-- [Nathan Schneider](http://people.cs.georgetown.edu/nschneid/), Georgetown University
-- [Alexis Palmer](https://linguistics.unt.edu/alexis-palmer), University of North Texas
+
 
 __Contact:__ General questions about SemEval organization should be directed to <semeval-organizers@googlegroups.com>.
 
