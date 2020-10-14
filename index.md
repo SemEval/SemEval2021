@@ -32,6 +32,11 @@ Welcome to the [SemEval](https://semeval.github.io/)-2021 homepage!
 - [Aurelie Herbelot](http://aurelieherbelot.net/), University of Trento
 - [Xiaodan Zhu](http://www.xiaodanzhu.com/), Queen's University
 
+### Assistant Organizers
+
+- [Shabnam Behzad](https://shabnam-b.github.io/), Georgetown University
+- [Michael Kranzlein](https://www.michaelkranzlein.com/), Georgetown University
+
 
 __Contact:__ General questions about SemEval organization should be directed to <semeval-organizers@googlegroups.com>.
 
