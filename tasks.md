@@ -13,8 +13,9 @@ Websites and contact information for individual below - we will keep updating th
 
 - **[Task 1: Lexical Complexity Prediction](https://sites.google.com/view/lcpsharedtask2021)** ([[email organizers]](mailto:semeval-2021-task-1-organizers@googlegroups.com)  [[mailing list]](mailto:semeval-2021-task-1@googlegroups.com)) <br>
 Matthew Shardlow, Richard Evans, Gustavo Henrique Paetzold, Marcos Zampieri
-- **[Task 2: Multilingual and Cross-lingual Word-in-Context Disambiguation](https://competitions.codalab.org/competitions/25825)** ([[email organizers]](mailto:mcl-wic@googlegroups.com))<br>
-Federico Martelli, Michael Bianchi, Gabriele Tola, Roberto Navigli
+- **[Task 2: Multilingual and Cross-lingual Word-in-Context Disambiguation](https://competitions.codalab.org/competitions/27054)** ([[email organizers]](mailto:mcl-wic@googlegroups.com))<br>
+**NOTE:** new competition website!<br>
+Federico Martelli, Najla Kalach, Gabriele Tola, Roberto Navigli
 - ~~Task 3: Span- and Dependency-based Multilingual and Cross-lingual Semantic Role Labeling~~
 - **[Task 4: Reading Comprehension of Abstract Meaning](https://competitions.codalab.org/competitions/26153)** ([[email organizers]](mailto:mrc-abstract-organizers@googlegroups.com)  [[mailing list]](mailto:mrc-abstract-participants@googlegroups.com)) <br>
 Xiaodan Zhu, Boyuan Zheng, Yu-Ping Ruan, Zhen-Hua Ling, Quan Liu, Si Wei
