@@ -21,7 +21,7 @@ Welcome to the [SemEval](https://semeval.github.io/)-2021 homepage!
 - Paper submission due: February 23, 2021
 - Notification to authors: March 29, 2021
 - Camera ready due: April 5, 2021
-- __SemEval workshop: Summer 2021__
+- __SemEval workshop: August 5–6, 2021 @ <a href="https://2021.aclweb.org/">ACL-IJCNLP</a> in Bangkok__
 
 ### Organizers
 
