@@ -27,8 +27,8 @@ Welcome to the [SemEval](https://semeval.github.io/)-2021 homepage!
 
 - [Alexis Palmer](https://linguistics.unt.edu/alexis-palmer), University of North Texas
 - [Nathan Schneider](http://people.cs.georgetown.edu/nschneid/), Georgetown University
-- [Leon Derczynski](http://www.derczynski.com/itu/), IT University of Copenhagen
 - [Guy Emerson](https://www.languagesciences.cam.ac.uk/directory/guy-emerson), Cambridge University
+- [Natalie Schluter](https://natschluter.github.io/), IT University Copenhagen, Google Brain
 - [Aurelie Herbelot](http://aurelieherbelot.net/), University of Trento
 - [Xiaodan Zhu](http://www.xiaodanzhu.com/), Queen's University
 
