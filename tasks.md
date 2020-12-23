@@ -44,7 +44,7 @@ Jennifer D'Souza, Sören Auer, Ted Pedersen
 ### Other phenomena
 
 - **[Task 12: Learning with Disagreements](https://sites.google.com/view/semeval2021-task12/home)** ([[email organizers]](mailto:semeval-task12-organizers@googlegroups.com) [[mailing list]](mailto:semeval-task12-participants@googlegroups.com)) <br>
-Alexandra Uma, Tommaso Fornaciari, Barbara Plank, Edwin Simpson, Massimo Poesio
+Alexandra Uma, Tommaso Fornaciari, Tristan Miller, Barbara Plank, Edwin Simpson, Massimo Poesio
 
 
 #### CONTACT
