@@ -18,7 +18,7 @@ Matthew Shardlow, Richard Evans, Gustavo Henrique Paetzold, Marcos Zampieri
 Federico Martelli, Najla Kalach, Gabriele Tola, Roberto Navigli
 - ~~Task 3: Span- and Dependency-based Multilingual and Cross-lingual Semantic Role Labeling~~
 - **[Task 4: Reading Comprehension of Abstract Meaning](https://competitions.codalab.org/competitions/26153)** ([[email organizers]](mailto:mrc-abstract-organizers@googlegroups.com)  [[mailing list]](mailto:mrc-abstract-participants@googlegroups.com)) <br>
-Xiaodan Zhu, Boyuan Zheng, Yu-Ping Ruan, Zhen-Hua Ling, Quan Liu, Si Wei
+Boyuan Zheng, Xiaoyu Yang, Yu-Ping Ruan, Quan Liu, Zhen-Hua Ling, Si Wei, Xiaodan Zhu
 
 ### Social factors & opinion
 
