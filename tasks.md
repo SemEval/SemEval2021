@@ -4,6 +4,13 @@ title: SemEval-2021 Tasks
 
 We are pleased to announce the following tasks for [SemEval-2021](https://semeval.github.io/SemEval2021)!
 
+Paper submission link (system and task description papers): https://www.softconf.com/acl2021/w13_SemEval/
+
+ACL-IJCNLP 2021 style templates (scroll down): https://2021.aclweb.org/calls/papers/
+
+Additional information: [Paper submission requirements](https://semeval.github.io/paper-requirements.html), [Guidelines for writing a system description paper](https://semeval.github.io/system-paper-template.html)
+
+
 ## TASKS
 Websites and contact information for individual below - we will keep updating these as we receive them. 
 
