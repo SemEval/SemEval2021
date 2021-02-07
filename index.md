@@ -33,8 +33,14 @@ Welcome to the [SemEval](https://semeval.github.io/)-2021 homepage!
 - [Aurelie Herbelot](http://aurelieherbelot.net/), University of Trento
 - [Xiaodan Zhu](http://www.xiaodanzhu.com/), Queen's University
 
+### Resources
 
-__Contact:__ General questions about SemEval organization should be directed to <semeval-organizers@googlegroups.com>.
+- [Frequenty Asked Questions about SemEval](/faq.html)
+- [Paper Submission Requirements](/paper-requirements.html)
+- [Guidelines for Writing Papers](/system-paper-template.html)
+
+__Contact:__ Most questions not answered by the above resources should be directed to organizers of specific [tasks](tasks.html).
+General questions about SemEval organization should be directed to <semeval-organizers@googlegroups.com>.
 
 ## Anti-Harassment policy
 
