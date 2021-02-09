@@ -33,7 +33,7 @@ Boyuan Zheng, Xiaoyu Yang, Yu-Ping Ruan, Quan Liu, Zhen-Hua Ling, Si Wei, Xiaoda
 John Pavlopoulos, Ion Androutsopoulos, Jeffrey Sorensen, Léo Laugier
 - **[Task 6: Detection of Persuasive Techniques in Texts and Images](https://propaganda.math.unipd.it/semeval2021task6/)** _Updated website_ ([[email organizers]](mailto:semeval2021-propaganda@googlegroups.com) [[mailing list]](mailto:semeval-2021-task6-all@googlegroups.com))<br>
 Giovanni Da San Martino, Hamed Firooz, Preslav Nakov, Fabrizio Silvestri
-- **[Task 7: Hahackathon: Incorporating Demographic Factors into Shared Humor Tasks](https://competitions.codalab.org/competitions/27446)** ([[email organizers]](mailto:hahackathon@googlegroups.com)) <br>
+- **[Task 7: HaHackathon: Detecting and Rating Humor and Offense](https://competitions.codalab.org/competitions/27446)** ([[email organizers]](mailto:hahackathon@googlegroups.com)) <br>
 **NOTE:** new competition website!<br>
 J. A. Meaney, Steven Wilson, Walid Magdy, Luis Chiruzzo
 
