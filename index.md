@@ -38,6 +38,8 @@ Welcome to the [SemEval](https://semeval.github.io/)-2021 homepage!
 - [Frequenty Asked Questions about SemEval](/faq.html)
 - [Paper Submission Requirements](/paper-requirements.html)
 - [Guidelines for Writing Papers](/system-paper-template.html)
+- Paper submission link (system and task description papers): <https://www.softconf.com/acl2021/w13_SemEval/>
+- ACL-IJCNLP 2021 style templates (scroll down): <https://2021.aclweb.org/calls/papers/>
 
 __Contact:__ Most questions not answered by the above resources should be directed to organizers of specific [tasks](tasks.html).
 General questions about SemEval organization should be directed to <semeval-organizers@googlegroups.com>.
