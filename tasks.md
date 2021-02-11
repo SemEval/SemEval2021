@@ -4,7 +4,7 @@ title: SemEval-2021 Tasks
 
 We are pleased to announce the following tasks for [SemEval-2021](https://semeval.github.io/SemEval2021)!
 
-For general information about participating in SemEval and submitting papers, see [Resources](index.html#Resources).
+For general information about participating in SemEval and submitting papers, see [Resources](index.html#resources).
 
 ## TASKS
 Websites and contact information for individual below - we will keep updating these as we receive them. 
