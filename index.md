@@ -24,6 +24,8 @@ Welcome to the [SemEval](https://semeval.github.io/)-2021 homepage!
 - Camera ready due: April 5, 2021
 - __SemEval workshop: August 5–6, 2021 @ <a href="https://2021.aclweb.org/">ACL-IJCNLP</a> in Bangkok__
 
+All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)).
+
 ### Organizers
 
 - [Alexis Palmer](), University of Colorado Boulder
