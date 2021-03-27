@@ -35,7 +35,7 @@ Note that CodaLab competitions is not the same as CodaLab worksheets. There is n
  - Example Competition on CodaLab for Clinical TempEval: [CodaLab site](https://competitions.codalab.org/competitions/15621), [Code](https://github.com/bethard/clinical-tempeval)
  - Post your questions and issues on CodaLab [here](https://github.com/codalab/codalab-competitions/issues)
    - Search first to see if a similar question has already been asked and answered.
-   - You can also post your questions to the semeval-task-organizers@googlegroups.com mailing group where other task organizers and semeval organizers might be of help.
+   - You can also post your questions to the semeval-task-organizers@googlegroups.com mailing group where other task organizers and SemEval organizers might be of help.
 
 ### Important Notes:
  - Experiment with the [testing version of Codalab](https://competitions-test.codalab.org/) before uploading an official competition.
@@ -72,7 +72,7 @@ Consider setting up at least the following three phases for your competition:
    - Enable “Auto migration” of submissions from Evaluation phase to this phase
    - Set maximum submissions to something high like 999
    - Make the leaderboard public
-   - Allows participants to score “contrastive runs” that can be included as part of the analysis in system description papers. Also allows scoring of future systems interested in the task beyond SemEval 2021
+   - Allows participants to score “contrastive runs” that can be included as part of the analysis in system description papers. Also allows scoring of future systems interested in the task beyond SemEval-2021
    - At most one submission for each participant can be displayed on the leaderboard.
 
 Participants must click the Submit to Leaderboard button underneath one of their submissions to display those results on the leaderboard. (Task organizers may override the participants using the `SHOW` setting on the `Submissions` page.)
