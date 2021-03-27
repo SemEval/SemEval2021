@@ -4,7 +4,7 @@ title: SemEval-2021
 
 Welcome to the [SemEval](https://semeval.github.io/)-2021 homepage!
 
-### [SemEval 2021 tasks](https://semeval.github.io/SemEval2021/tasks)
+### [SemEval-2021 tasks](https://semeval.github.io/SemEval2021/tasks)
 
 
 ### Important dates - updated February 6, 2021
