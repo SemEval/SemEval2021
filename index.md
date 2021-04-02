@@ -7,22 +7,23 @@ Welcome to the [SemEval](https://semeval.github.io/)-2021 homepage!
 ### [SemEval-2021 tasks](https://semeval.github.io/SemEval2021/tasks)
 
 
-### Important dates - updated February 6, 2021
+### Important dates - updated April 2, 2021
 
 - [Task proposals](cft.html) due: April 3, 2020
 - Task selection notification: May 25, 2020
-- __2021 tasks announced: June 19, 2020__
-- __Trial data ready: July 31, 2020__
-- __Task website ready: August 14, 2020__
+- 2021 tasks announced: June 19, 2020
+- Trial data ready: July 31, 2020
+- Task website ready: August 14, 2020
 - Training data ready: October 1, 2020
 - Test data ready: December 3, 2020
-- __Evaluation start: January 10, 2021__
-- __Evaluation end: January 31, 2021__
+- Evaluation start: January 10, 2021
+- Evaluation end: January 31, 2021
 - System description [paper submissions](https://www.softconf.com/acl2021/w13_SemEval/) due: February 23, 2021
 - Task description [paper submissions](https://www.softconf.com/acl2021/w13_SemEval/) due: March 2, 2021
 - Notification to authors: March 29, 2021
-- Camera ready due: April 5, 2021
-- __SemEval workshop: August 5–6, 2021 @ <a href="https://2021.aclweb.org/">ACL-IJCNLP</a> in Bangkok__
+- __Camera ready due for system description papers: April 9, 2021__
+- __Camera ready due for task description papers: April 16, 2021__
+- __SemEval workshop: August 5–6, 2021 @ <a href="https://2021.aclweb.org/">ACL-IJCNLP</a>__
 
 All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)).
 
