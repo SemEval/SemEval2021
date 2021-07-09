@@ -10,9 +10,7 @@ To accommodate different time zones, each poster session is held three times. **
 
 ### Thursday, August 5
 
-<details><summary><b>14:00-15:00 Invited Talk: Diyi Yang</b></summary>
-
-  _Seven Social Factors in Natural Language Processing: Theory and Practice_
+<details><summary><b>14:00-15:00 Invited Talk: Diyi Yang, <i>Seven Social Factors in Natural Language Processing: Theory and Practice</i></b></summary>
 
   Recently, natural language processing (NLP) has had increasing success and produced extensive industrial applications. Despite being sufficient to enable these applications, current NLP systems often ignore the social part of language, e.g., who says it, in what context, for what goals. In this talk, we take a closer look at social factors in language via a new theory taxonomy, and its interplay with computational methods via two lines of work. The first one studies what makes language persuasive by introducing a semi-supervised method to leverage hierarchical structures in text to recognize persuasion strategies in good-faith requests. The second part demonstrates how various structures in conversations can be utilized to generate better summaries for everyday interaction. We conclude by discussing several open-ended questions towards how to build socially aware language technologies, with the hope of getting closer to the goal of human-like language understanding.
 
@@ -20,7 +18,7 @@ To accommodate different time zones, each poster session is held three times. **
   
 </details>
 
-<details><summary><b>15:00-15:25 Plenary session: Tasks 1, 2, 4</b></summary>
+<details open><summary><b>15:00-15:25 Plenary session: Tasks 1, 2, 4</b></summary>
 
  - _SemEval-2021 Task 1: Lexical Complexity Prediction_, Matthew Shardlow, Richard Evans, Gustavo Henrique Paetzold and Marcos Zampieri
  - _OCHADAI-KYOTO at SemEval-2021 Task 1: Enhancing Model Generalization and Robustness for Lexical Complexity Prediction_, Yuki Taya, Lis Kanashiro Pereira, Fei Cheng and Ichiro Kobayashi
@@ -30,7 +28,7 @@ To accommodate different time zones, each poster session is held three times. **
 
 </details>
 
-<details><summary><b>15:25-15:50 Plenary session: Tasks 5, 6, 7</b></summary>
+<details open><summary><b>15:25-15:50 Plenary session: Tasks 5, 6, 7</b></summary>
 
  - _SemEval-2021 Task 5: Toxic Spans Detection_, John Pavlopoulos, Jeffrey Sorensen, Léo Laugier and Ion Androutsopoulos
  - _SemEval-2021 Task 6: Detection of Persuasion Techniques in Texts and Images_, Dimitar Dimitrov, Bishr Bin Ali, Shaden Shaar, Firoj Alam, Fabrizio Silvestri, Hamed Firooz, Preslav Nakov and Giovanni Da San Martino
@@ -86,9 +84,7 @@ To accommodate different time zones, each poster session is held three times. **
 
 ### Friday, August 6
 
-<details><summary><b>14:00-15:00 Invited Talk: Hannah Rohde</b></summary>
-
-  _Predictability and Informativity in Communication_
+<details><summary><b>14:00-15:00 Invited Talk: Hannah Rohde, <i>Predictability and Informativity in Communication</i></b></summary>
 
   This talk brings a psycholinguistic perspective to the questions of what makes a 'good' sentence for a speaker (or NLG system) to produce and what makes a 'good' inference about the world for a listener (or NLU system) to draw from the sentences they encounter.   I consider the link between real-world predictability and text likelihood – do the things that speakers choose to say about the world provide a transparent mapping to how the world really is?  This talk will introduce experimental evidence that comprehenders expect speakers to mention newsworthy content (namely content that is not highly predictable from world knowledge). For example, comprehenders who are asked to guess what a speaker is going to say next will infer from the mention of the word 'yellow' that the speaker is unlikely to be talking about something prototypically yellow (they anticipate that the speaker is talking about a shirt instead of a banana) and, more generally, they will guess that a sentence contains content that deviates from their real-world priors (they anticipate a description of a newsworthy situation with properties that are rare in the real world).   Such findings have implications for the way we use text to infer meaningful facts about the world and the way we evaluate the felicity and sensibility of a text.
 
@@ -96,7 +92,7 @@ To accommodate different time zones, each poster session is held three times. **
 
 </details>
 
-<details><summary><b>15:00-15:25 Plenary session: Tasks 8, 9, 12</b></summary>
+<details open><summary><b>15:00-15:25 Plenary session: Tasks 8, 9, 12</b></summary>
 
  - _SemEval-2021 Task 8: MeasEval – Extracting Counts and Measurements and their Related Contexts_, Corey Harper, Jessica Cox, Curt Kohler, Antony Scerri, Ron Daniel Jr. and Paul Groth
  - _SemEval-2021 Task 9: Fact Verification and Evidence Finding for Tabular Data in Scientific Documents (SEM-TAB-FACTS)_, Nancy X. R. Wang, Diwakar Mahajan, Marina Danilevsky and Sara Rosentha
@@ -105,7 +101,7 @@ To accommodate different time zones, each poster session is held three times. **
 
 </details>
 
-<details><summary><b>15:25-15:50 Plenary session: Tasks 10, 11</b></summary>
+<details open><summary><b>15:25-15:50 Plenary session: Tasks 10, 11</b></summary>
 
  - _SemEval-2021 Task 10: Source-Free Domain Adaptation for Semantic Processing_, Egoitz Laparra, Xin Su, Yiyun Zhao, Özlem Uzuner, Timothy Miller and Steven Bethard
  - _BLCUFIGHT at SemEval-2021 Task 10: Novel Unsupervised Frameworks For Source-Free Domain Adaptation_, Weikang Wang, Yi Wu, Yixiang Liu and Pengyuan Liu
