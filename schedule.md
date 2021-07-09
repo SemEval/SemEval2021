@@ -106,8 +106,7 @@ To accommodate different time zones, each poster session is held three times. **
  - _SemEval-2021 Task 10: Source-Free Domain Adaptation for Semantic Processing_, Egoitz Laparra, Xin Su, Yiyun Zhao, Özlem Uzuner, Timothy Miller and Steven Bethard
  - _BLCUFIGHT at SemEval-2021 Task 10: Novel Unsupervised Frameworks For Source-Free Domain Adaptation_, Weikang Wang, Yi Wu, Yixiang Liu and Pengyuan Liu
  - _SemEval-2021 Task 11: NLPContributionGraph - Structuring Scholarly NLP Contributions for a Research Knowledge Graph_, Jennifer D'Souza, Sören Auer and Ted Pedersen
- - _UIUC_BioNLP at SemEval-2021 Task 11: A Cascade of Neural Models for Structuring Scholarly NLP Contributions
-Haoyang Liu, M. Janina Sarol and Halil Kilicoglu
+ - _UIUC_BioNLP at SemEval-2021 Task 11: A Cascade of Neural Models for Structuring Scholarly NLP Contributions_, Haoyang Liu, M. Janina Sarol and Halil Kilicoglu
 
 </details>
 
