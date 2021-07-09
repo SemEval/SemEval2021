@@ -62,7 +62,7 @@ To accommodate different time zones, each poster session is held three times. **
 
 </details>
 
-<details><summary><b>03:00-04:00(🌻) / 12:30-13:30(🌳) / 17:30-18:30(🍄) Poster session: Tasks 5, 6, 7</b></summary>
+<details><summary><strong>03:00-04:00(🌻) / 12:30-13:30(🌳) / 17:30-18:30(🍄) Poster session: Tasks 5, 6, 7</strong></summary>
 
  - #18 _IITK@Detox at SemEval-2021 Task 5: Semi-Supervised Learning and Dice Loss for Toxic Spans Detection_, Archit Bansal, Abhay Kaushik and Ashutosh Modi 🌳
  - #37 _UniParma at SemEval-2021 Task 5: Toxic Spans Detection Using CharacterBERT and Bag-of-Words Model_, Akbar Karimi, Leonardo Rossi and Andrea Prati 🍄
@@ -84,7 +84,7 @@ To accommodate different time zones, each poster session is held three times. **
 
 ### Friday, August 6
 
-<details><summary><b>14:00-15:00 Invited Talk: Hannah Rohde, <i>Predictability and Informativity in Communication</i></b></summary>
+<details><summary><strong>14:00-15:00 Invited Talk: Hannah Rohde, <em>Predictability and Informativity in Communication</em></strong></summary>
 
   This talk brings a psycholinguistic perspective to the questions of what makes a 'good' sentence for a speaker (or NLG system) to produce and what makes a 'good' inference about the world for a listener (or NLU system) to draw from the sentences they encounter.   I consider the link between real-world predictability and text likelihood – do the things that speakers choose to say about the world provide a transparent mapping to how the world really is?  This talk will introduce experimental evidence that comprehenders expect speakers to mention newsworthy content (namely content that is not highly predictable from world knowledge). For example, comprehenders who are asked to guess what a speaker is going to say next will infer from the mention of the word 'yellow' that the speaker is unlikely to be talking about something prototypically yellow (they anticipate that the speaker is talking about a shirt instead of a banana) and, more generally, they will guess that a sentence contains content that deviates from their real-world priors (they anticipate a description of a newsworthy situation with properties that are rare in the real world).   Such findings have implications for the way we use text to infer meaningful facts about the world and the way we evaluate the felicity and sensibility of a text.
 
@@ -92,7 +92,7 @@ To accommodate different time zones, each poster session is held three times. **
 
 </details>
 
-<details open><summary><b>15:00-15:25 Plenary session: Tasks 8, 9, 12</b></summary>
+<details open><summary><strong>15:00-15:25 Plenary session: Tasks 8, 9, 12</strong></summary>
 
  - _SemEval-2021 Task 8: MeasEval – Extracting Counts and Measurements and their Related Contexts_, Corey Harper, Jessica Cox, Curt Kohler, Antony Scerri, Ron Daniel Jr. and Paul Groth
  - _SemEval-2021 Task 9: Fact Verification and Evidence Finding for Tabular Data in Scientific Documents (SEM-TAB-FACTS)_, Nancy X. R. Wang, Diwakar Mahajan, Marina Danilevsky and Sara Rosentha
@@ -101,7 +101,7 @@ To accommodate different time zones, each poster session is held three times. **
 
 </details>
 
-<details open><summary><b>15:25-15:50 Plenary session: Tasks 10, 11</b></summary>
+<details open><summary><strong>15:25-15:50 Plenary session: Tasks 10, 11</strong></summary>
 
  - _SemEval-2021 Task 10: Source-Free Domain Adaptation for Semantic Processing_, Egoitz Laparra, Xin Su, Yiyun Zhao, Özlem Uzuner, Timothy Miller and Steven Bethard
  - _BLCUFIGHT at SemEval-2021 Task 10: Novel Unsupervised Frameworks For Source-Free Domain Adaptation_, Weikang Wang, Yi Wu, Yixiang Liu and Pengyuan Liu
@@ -111,11 +111,11 @@ Haoyang Liu, M. Janina Sarol and Halil Kilicoglu
 
 </details>
 
-<details><summary><b>15:50-16:00 Announcement of SemEval-2022 Tasks & Closing Remarks</b></summary>
+<details><summary><strong>15:50-16:00 Announcement of SemEval-2022 Tasks & Closing Remarks</strong></summary>
   To be announced!
 </details>
 
-<details><summary><b>02:00-03:00(🌻) / 11:30-12:30(🌳) / 16:30-17:30(🍄) Poster session: Tasks 8, 9, 12</b></summary>
+<details><summary><strong>02:00-03:00(🌻) / 11:30-12:30(🌳) / 16:30-17:30(🍄) Poster session: Tasks 8, 9, 12</strong></summary>
 
  - #115 _KGP at SemEval-2021 Task 8: Leveraging Multi-Staged Language Models for Extracting Measurements, their Attributes and Relations_, Neel Karia, Ayush Kaushal and Faraaz Mallick 🌳🍄
  - #154 _DPR at SemEval-2021 Task 8: Dynamic Path Reasoning for Measurement Relation Extraction_, Amir Pouran Ben Veyseh, Franck Dernoncourt and Thien Huu Nguyen 🌳
@@ -128,7 +128,7 @@ Haoyang Liu, M. Janina Sarol and Halil Kilicoglu
 
 </details>
 
-<details><summary><b>03:00-04:00(🌻) / 12:30-13:30(🌳) / 17:30-18:30(🍄) Poster session: Tasks 10, 11</b></summary>
+<details><summary><strong>03:00-04:00(🌻) / 12:30-13:30(🌳) / 17:30-18:30(🍄) Poster session: Tasks 10, 11</strong></summary>
 
  - #93 _IITK at SemEval-2021 Task 10: Source-Free Unsupervised Domain Adaptation using Class Prototypes_, Harshit Kumar, Jinang Shah, Nidhi Hegde, Priyanshu Gupta, Vaibhav Jindal and Ashutosh Modi 🌳
  - #105 _PTST-UoM at SemEval-2021 Task 10: Parsimonious Transfer for Sequence Tagging_, Kemal Kurniawan, Lea Frermann, Philip Schulz and Trevor Cohn 🌻🌳
