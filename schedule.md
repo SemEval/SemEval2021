@@ -39,7 +39,9 @@ To accommodate different time zones, each poster session is held three times.
 
 </details>
 
-<b>15:50-16:00 Announcement of Best Paper Awards & General Discussion</b>
+<details><summary><b>15:50-16:00 Announcement of Best Paper Awards & General Discussion</b></summary>
+  To be announced!
+</details>
 
 <details><summary><b>02:00-03:00(🌻) / 11:30-12:30(🌳) / 16:30-17:30(🍄) Poster session: Tasks 1, 2, 4</b></summary>
 
@@ -113,7 +115,9 @@ Haoyang Liu, M. Janina Sarol and Halil Kilicoglu
 
 </details>
 
-<b>15:50-16:00 Announcement of SemEval-2022 Tasks & Closing Remarks</b>
+<details><summary><b>15:50-16:00 Announcement of SemEval-2022 Tasks & Closing Remarks</b></summary>
+  To be announced!
+</details>
 
 <details><summary><b>02:00-03:00(🌻) / 11:30-12:30(🌳) / 16:30-17:30(🍄) Poster session: Tasks 8, 9, 12</b></summary>
 
