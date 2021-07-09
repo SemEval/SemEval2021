@@ -6,7 +6,7 @@ title: SemEval-2021 Program
 
 [SemEval-2021](https://semeval.github.io/SemEval2021/) will be colocated with [ACL 2021](https://2021.aclweb.org/). All times shown are [UTC](https://en.wikipedia.org/wiki/Coordinated_Universal_Time).
 
-To accommodate different time zones, each poster session is held three times.
+To accommodate different time zones, each poster session is held three times. **Emojis indicate when authors intend to be present at their poster.**
 
 ### Thursday, August 5
 
