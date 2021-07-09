@@ -10,7 +10,7 @@ To accommodate different time zones, each poster session is held three times. **
 
 ### Thursday, August 5
 
-<details><summary><b>14:00-15:00 Invited Talk: Diyi Yang, <i>Seven Social Factors in Natural Language Processing: Theory and Practice</i></b></summary>
+<details><summary><strong>14:00-15:00 Invited Talk: Diyi Yang, <em>Seven Social Factors in Natural Language Processing: Theory and Practice</em></strong></summary>
 
   Recently, natural language processing (NLP) has had increasing success and produced extensive industrial applications. Despite being sufficient to enable these applications, current NLP systems often ignore the social part of language, e.g., who says it, in what context, for what goals. In this talk, we take a closer look at social factors in language via a new theory taxonomy, and its interplay with computational methods via two lines of work. The first one studies what makes language persuasive by introducing a semi-supervised method to leverage hierarchical structures in text to recognize persuasion strategies in good-faith requests. The second part demonstrates how various structures in conversations can be utilized to generate better summaries for everyday interaction. We conclude by discussing several open-ended questions towards how to build socially aware language technologies, with the hope of getting closer to the goal of human-like language understanding.
 
@@ -18,7 +18,7 @@ To accommodate different time zones, each poster session is held three times. **
   
 </details>
 
-<details open><summary><b>15:00-15:25 Plenary session: Tasks 1, 2, 4</b></summary>
+<details open><summary><strong>15:00-15:25 Plenary session: Tasks 1, 2, 4</strong></summary>
 
  - _SemEval-2021 Task 1: Lexical Complexity Prediction_, Matthew Shardlow, Richard Evans, Gustavo Henrique Paetzold and Marcos Zampieri
  - _OCHADAI-KYOTO at SemEval-2021 Task 1: Enhancing Model Generalization and Robustness for Lexical Complexity Prediction_, Yuki Taya, Lis Kanashiro Pereira, Fei Cheng and Ichiro Kobayashi
@@ -28,7 +28,7 @@ To accommodate different time zones, each poster session is held three times. **
 
 </details>
 
-<details open><summary><b>15:25-15:50 Plenary session: Tasks 5, 6, 7</b></summary>
+<details open><summary><strong>15:25-15:50 Plenary session: Tasks 5, 6, 7</strong></summary>
 
  - _SemEval-2021 Task 5: Toxic Spans Detection_, John Pavlopoulos, Jeffrey Sorensen, Léo Laugier and Ion Androutsopoulos
  - _SemEval-2021 Task 6: Detection of Persuasion Techniques in Texts and Images_, Dimitar Dimitrov, Bishr Bin Ali, Shaden Shaar, Firoj Alam, Fabrizio Silvestri, Hamed Firooz, Preslav Nakov and Giovanni Da San Martino
@@ -37,11 +37,11 @@ To accommodate different time zones, each poster session is held three times. **
 
 </details>
 
-<details><summary><b>15:50-16:00 Announcement of Best Paper Awards & General Discussion</b></summary>
+<details><summary><strong>15:50-16:00 Announcement of Best Paper Awards & General Discussion</strong></summary>
   To be announced!
 </details>
 
-<details><summary><b>02:00-03:00(🌻) / 11:30-12:30(🌳) / 16:30-17:30(🍄) Poster session: Tasks 1, 2, 4</b></summary>
+<details><summary><strong>02:00-03:00(🌻) / 11:30-12:30(🌳) / 16:30-17:30(🍄) Poster session: Tasks 1, 2, 4</strong></summary>
 
  - #56 _LangResearchLab NC at SemEval-2021 Task 1: Linguistic Feature Based Modelling for Lexical Complexity_, Raksha Agarwal and Niladri Chatterjee 🌻🌳
  - #67 _OCHADAI-KYOTO at SemEval-2021 Task 1: Enhancing Model Generalization and Robustness for Lexical Complexity Prediction_, Yuki Taya, Lis Kanashiro Pereira, Fei Cheng and Ichiro Kobayashi 🌻
