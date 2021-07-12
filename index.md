@@ -40,7 +40,7 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 
 ### Resources
 
-- [Frequenty Asked Questions about SemEval](/faq.html)
+- [Frequently Asked Questions about SemEval](/faq.html)
 - [Paper Submission Requirements](/paper-requirements.html)
 - [Guidelines for Writing Papers](/system-paper-template.html)
 - Paper submission link (system and task description papers): <https://www.softconf.com/acl2021/w13_SemEval/>
