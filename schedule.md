@@ -8,6 +8,8 @@ title: SemEval-2021 Program
 
 To accommodate different time zones, each poster session is held three times. **Emojis indicate when authors intend to be present at their poster.**
 
+All SemEval papers can be found in the [__proceedings__](https://aclanthology.org/events/semeval-2021/).
+
 ### Thursday, August 5
 
 <details><summary><strong>14:00-15:00 Invited Talk: Diyi Yang, <em>Seven Social Factors in Natural Language Processing: Theory and Practice</em></strong></summary>
