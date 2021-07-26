@@ -8,7 +8,7 @@ title: SemEval-2021 Program
 
 To accommodate different time zones, each poster session is held three times. **Emojis indicate when authors intend to be present at their poster.**
 
-All SemEval papers can be found in the [__proceedings__](https://aclanthology.org/volumes/2020.semeval-1/).
+All SemEval papers can be found in the [__proceedings__](https://aclanthology.org/volumes/2021.semeval-1/).
 
 ### Thursday, August 5
 
