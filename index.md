@@ -8,6 +8,7 @@ Welcome to the [SemEval](https://semeval.github.io/)-2021 homepage!
 
 ### [SemEval-2021 program](https://semeval.github.io/SemEval2021/schedule)
 
+### [SemEval-2021 proceedings](https://aclanthology.org/events/semeval-2021/)
 
 ### Important dates - updated April 2, 2021
 
