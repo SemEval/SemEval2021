@@ -13,7 +13,7 @@ title: SemEval-2021 Program
   - PAPER TALKS: Oral paper plenary sessions will be for Q&A only. **Attendees are advised to watch the prerecorded talks prior to the session.**
   - For Diyi Yang's invited talk on August 5, use the __*SEM Zoom link__ instead of the SemEval one.
 - POSTERS: Poster sessions will be held in GatherTown. To accommodate different time zones, each poster session is held three times. **Emojis indicate when authors intend to be present at their poster.**
-
+  - Note that the first poster session time slot starts Aug 5 02:00 UTC = evening of Aug 4 in the Americas.
 
 All SemEval papers can be found in the [__proceedings__](https://aclanthology.org/volumes/2021.semeval-1/).
 
