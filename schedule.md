@@ -161,7 +161,7 @@ All SemEval papers can be found in the [__proceedings__](https://aclanthology.or
  - #106 _BLCUFIGHT at SemEval-2021 Task 10: Novel Unsupervised Frameworks For Source-Free Domain Adaptation_, Weikang Wang, Yi Wu, Yixiang Liu and pengyuan liu 
  - #125 _Self-Adapter at SemEval-2021 Task 10: Entropy-based Pseudo-Labeler for Source-free Domain Adaptation_, Sangwon Yoon, Yanghoon Kim and Kyomin Jung 🌻🌳🍄
  - #151 _The University of Arizona at SemEval-2021 Task 10: Applying Self-training, Active Learning and Data Augmentation to Source-free Domain Adaptation_, Xin Su, Yiyun Zhao and Steven Bethard 🌻🍄
- - #49 _KnowGraph@IITK at SemEval-2021 Task 11: Building Knowledge Graph for NLP Research_, Shashank Shailabh, Sajal Chaurasia and Ashutosh Modi 🌳
+ - #49 _KnowGraph@IITK at SemEval-2021 Task 11: Building Knowledge Graph for NLP Research_, Shashank Shailabh, Sajal Chaurasia and Ashutosh Modi 🌻🌳🍄
  - #95 _YNU-HPCC at SemEval-2021 Task 11: Using a BERT Model to Extract Contributions from NLP Scholarly Articles_, Xinge Ma, Jin Wang and Xuejie Zhang 🌻🍄
  - #103 _ITNLP at SemEval-2021 Task 11: Boosting BERT with Sampling and Adversarial Training for Knowledge Extraction_, Genyu Zhang, Yu Su, Changhong He, Lei Lin, Chengjie Sun and Lili Shan 🌻
  - #172 _UIUC_BioNLP at SemEval-2021 Task 11: A Cascade of Neural Models for Structuring Scholarly NLP Contributions_, Haoyang Liu, M. Janina Sarol and Halil Kilicoglu 🌳🍄
