@@ -6,7 +6,14 @@ title: SemEval-2021 Program
 
 [SemEval-2021](https://semeval.github.io/SemEval2021/) will be colocated with [ACL 2021](https://2021.aclweb.org/). All times shown are [UTC](https://en.wikipedia.org/wiki/Coordinated_Universal_Time).
 
-To accommodate different time zones, each poster session is held three times. **Emojis indicate when authors intend to be present at their poster.**
+### Logistical notes
+
+- Access to the event is through the Underline virtual platform. If you have registered for ACL you should have received a "Welcome to ACL-IJCNLP 2021" email with login instructions.
+- PLENARY SESSIONS: These will be held over Zoom via the link provided in Underline.
+  - PAPER TALKS: Oral paper plenary sessions will be for Q&A only. **Attendees are advised to watch the prerecorded talks prior to the session.**
+  - For Diyi Yang's invited talk on August 5, use the __*SEM Zoom link__ instead of the SemEval one.
+- POSTERS: Poster sessions will be held in GatherTown. To accommodate different time zones, each poster session is held three times. **Emojis indicate when authors intend to be present at their poster.**
+
 
 All SemEval papers can be found in the [__proceedings__](https://aclanthology.org/volumes/2021.semeval-1/).
 
