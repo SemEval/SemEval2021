@@ -63,7 +63,7 @@ All SemEval papers can be found in the [__proceedings__](https://aclanthology.or
 
  - #56 _LangResearchLab NC at SemEval-2021 Task 1: Linguistic Feature Based Modelling for Lexical Complexity_, Raksha Agarwal and Niladri Chatterjee 🌻🌳
  - #67 _OCHADAI-KYOTO at SemEval-2021 Task 1: Enhancing Model Generalization and Robustness for Lexical Complexity Prediction_, Yuki Taya, Lis Kanashiro Pereira, Fei Cheng and Ichiro Kobayashi 🌻
- - #123 _Complex words identification using word-level features for SemEval-2020 Task 1_, Jenny Ortiz-Zambrano and Arturo Montejo-Ráez 
+ - #123 _Complex words identification using word-level features for SemEval-2020 Task 1_, Jenny Ortiz-Zambrano and Arturo Montejo-Ráez 🍄
  - #150 _TUDA-CCL at SemEval-2021 Task 1: Using Gradient-boosted Regression Tree Ensembles Trained on a Heterogeneous Feature Set for Predicting Lexical Complexity_, Sebastian Gombert and Sabine Bartsch 🌳🍄
  - #156 _JCT at SemEval-2021 Task 1: Context-aware Representation for Lexical Complexity Prediction_, Chaya Liebeskind, Otniel Elkayam and Shmuel Liebeskind 🌳🍄
  - #195 _IAPUCP at SemEval-2021 Task 1: Stacking Fine-Tuned Transformers is Almost All You Need for Lexical Complexity Prediction_, Kervy Rivas Rojas and Fernando Alva-Manchego 
