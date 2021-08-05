@@ -10,6 +10,8 @@ Welcome to the [SemEval](https://semeval.github.io/)-2021 homepage!
 
 ### [SemEval-2021 proceedings](https://aclanthology.org/volumes/2021.semeval-1/)
 
+### [SemEval-2021 best paper awards!](https://semeval.github.io/SemEval2021/awards)
+
 ### Important dates - updated April 2, 2021
 
 - [Task proposals](cft.html) due: April 3, 2020
