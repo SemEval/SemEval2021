@@ -14,7 +14,7 @@ title: SemEval-2021 Program
   - For Diyi Yang's invited talk on August 5, use the __*SEM Zoom link__ instead of the SemEval one.
 - POSTERS: Poster sessions will be held in GatherTown, via the link provided in [Underline](https://underline.io/events/167/sessions?eventSessionId=6294). To accommodate different time zones, each poster session is held three times. **Emojis indicate when authors intend to be present at their poster.**
   - Note that the first poster session time slot starts Aug 5 02:00 UTC = evening of Aug 4 in the Americas.
-  - **UPDATE: ~~As of Aug 5 03:00 UTC, all the posters are in a single GatherTown room, in roughly numerical order by paper number.~~ As of Aug 5 13:00 UTC, there is a GatherTown poster room for each group of tasks. If your poster is missing, please contact Underline (in the meantime, you should be able to present by sharing your screen). We appreciate your patience with glitches in the technical setup.**
+  - **UPDATE: <s>As of Aug 5 03:00 UTC, all the posters are in a single GatherTown room, in roughly numerical order by paper number.</s> As of Aug 5 13:00 UTC, there is a GatherTown poster room for each group of tasks. If your poster is missing, please contact Underline (in the meantime, you should be able to present by sharing your screen). We appreciate your patience with glitches in the technical setup.**
 
 All SemEval papers can be found in the [__proceedings__](https://aclanthology.org/volumes/2021.semeval-1/).
 
