@@ -47,7 +47,7 @@ component in the evaluation, as well as a clear and reproducible description of 
 This paper approaches the task of extracting structured information from scholarly articles.  A sophisticated system is developed, 
 blending established ideas in Information Extraction with more recent neural approaches.  The various engineering decisions are
 clearly motivated and discussed, with additional evaluations of the different components.  Limitations of both the dataset and
-the model are discussed, providing ideas for future work
+the model are discussed, providing ideas for future work.
 
 #### [Honorable Mention: OCHADAI-KYOTO at SemEval-2021 Task 1: Enhancing Model Generalization and Robustness for Lexical Complexity Prediction](https://aclanthology.org/2021.semeval-1.2/)
 #### _Yuki Taya, Lis Kanashiro Pereira, Fei Cheng, and Ichiro Kobayashi_
