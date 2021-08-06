@@ -8,18 +8,17 @@ title: SemEval-2021 Program
 
 ### Logistical notes
 
-- Access to the event is through the Underline virtual platform. If you have registered for ACL you should have received a "Welcome to ACL-IJCNLP 2021" email with login instructions.
-- PLENARY SESSIONS: These will be held over Zoom, via the link provided in [Underline](https://underline.io/events/167/sessions?eventSessionId=6294).
+- Access to the event is through the Underline virtual platform. If you have registered for ACL you should have received a "Welcome to ACL-IJCNLP 2021" email with login instruction.
+- PLENARY SESSIONS: These will be held over Zoom, via the links provided in Underline ([Friday 5th](https://underline.io/events/167/sessions?eventSessionId=6294), [Saturday 6th](https://underline.io/events/167/sessions?eventSessionId=6295)).
   - PAPER TALKS: Oral paper plenary sessions will be for Q&A only. **Attendees are advised to watch the prerecorded talks prior to the session.**
   - For Diyi Yang's invited talk on August 5, use the __*SEM Zoom link__ instead of the SemEval one.
-- POSTERS: Poster sessions will be held in GatherTown, via the link provided in [Underline](https://underline.io/events/167/sessions?eventSessionId=6294). To accommodate different time zones, each poster session is held three times. **Emojis indicate when authors intend to be present at their poster.**
+- POSTERS: Poster sessions will be held in GatherTown, via the link provided in Underline. To accommodate different time zones, each poster session is held three times. **Emojis indicate when authors intend to be present at their poster.**
   - Note that the first poster session time slot starts Aug 5 02:00 UTC = evening of Aug 4 in the Americas.
   - **UPDATE: <s>As of Aug 5 03:00 UTC, all the posters are in a single GatherTown room, in roughly numerical order by paper number.</s> As of Aug 5 13:00 UTC, there is a GatherTown poster room for each group of tasks. If your poster is missing, please contact Underline (in the meantime, you should be able to present by sharing your screen). We appreciate your patience with glitches in the technical setup.**
 
 All SemEval papers can be found in the [__proceedings__](https://aclanthology.org/volumes/2021.semeval-1/).
 
 ### Thursday, August 5
-
 <details><summary><strong>14:00-15:00 Invited Talk [joint with *SEM]: Diyi Yang, <em>Seven Social Factors in Natural Language Processing: Theory and Practice</em></strong></summary>
 
   *<u>Access via the \*SEM Zoom link</u>. Session Chair: Lun-Wei Ku*
