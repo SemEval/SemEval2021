@@ -56,7 +56,7 @@ All SemEval papers can be found in the [__proceedings__](https://aclanthology.or
   
   *Session chair: Alexis Palmer*
   
-  To be announced!
+  [Best Task/Paper Awards](awards)
 </details>
 
 <details><summary><strong>02:00-03:00(🌻) / 11:30-12:30(🌳) / 16:30-17:30(🍄) Poster session: Tasks 1, 2, 4</strong></summary>
@@ -139,7 +139,7 @@ All SemEval papers can be found in the [__proceedings__](https://aclanthology.or
   
    *Session chair: Nathan Schneider*
   
-  To be announced!
+  [SemEval-2022 Tasks](https://semeval.github.io/SemEval2022/tasks)
 </details>
 
 <details><summary><strong>02:00-03:00(🌻) / 11:30-12:30(🌳) / 16:30-17:30(🍄) Poster session: Tasks 8, 9, 12</strong></summary>
