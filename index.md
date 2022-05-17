@@ -49,6 +49,10 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - Paper submission link (system and task description papers): <https://www.softconf.com/acl2021/w13_SemEval/>
 - ACL-IJCNLP 2021 style templates (scroll down): <https://2021.aclweb.org/calls/papers/>
 
+### Sponsorship
+
+SemEval is sponsored by the [SIGLEX](http://alt.qcri.org/siglex/) Special Interest Group on the Lexicon of the Association for Computational Linguistics.
+
 __Contact:__ Most questions not answered by the above resources should be directed to organizers of specific [tasks](tasks.html).
 General questions about SemEval organization should be directed to <semeval-organizers@googlegroups.com>.
 
